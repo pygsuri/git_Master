@@ -5,6 +5,10 @@ git init 하고서,
 vscode 에서 파일을 짜고,
 git add file1 file2 , git add .  ,  git commit -m , git commit -a -m, 
 git log --all --oneline
-git diff
+git diff, git difftool
 왜만하면 git 유사품 내장됨. vscode에도 있음.
+
+결국, 
+vscode 타임라인 좋고, 또 git graph 익스텐션 하니 보기 편하군...
+
  
