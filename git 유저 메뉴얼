@@ -1,0 +1,7 @@
+git 인스톨, 폴더 만들고, vscode에서 작업. 터미널 창에서 
+git config --global user.email "knp  ....@gmail.com"
+git config --global user.name "Pakr Young Gyun" 등록 후 
+git init 하고서, 
+vscode 에서 파일을 짜고,
+git add file1 file2 , git add .  ,  git commit -m , git commit -a -m, 
+git log --all --oneline, 
