@@ -4,4 +4,7 @@ git config --global user.name "Pakr Young Gyun" 등록 후
 git init 하고서, 
 vscode 에서 파일을 짜고,
 git add file1 file2 , git add .  ,  git commit -m , git commit -a -m, 
-git log --all --oneline, 
+git log --all --oneline
+git diff
+왜만하면 git 유사품 내장됨. vscode에도 있음.
+ 
